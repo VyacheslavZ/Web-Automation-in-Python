@@ -1,0 +1,15 @@
+address: https://test-stand.gb.ru
+address2: https://test-stand.gb.ru/api/posts
+browser: chrome
+sleep_time: 5
+implicitly_wait: 3
+username: GB202306a2eba7
+password: 54ec17ebf4
+test_title: test123
+test_description: Создан автоматически
+test_content: Создан автоматически
+
+log_email: None
+log_email_pass: None
+log_name: log.txt
+report_name: report.html
